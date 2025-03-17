@@ -1,0 +1,11 @@
+
+# Camouflaged Weapon Detection dataset
+path: D:/projects_ml/Camouflage_Weapon_Detection\data\dataset
+train: train/images
+val: val/images
+test: test/images
+
+# Classes
+names:
+  0: Weapon
+  1: No Weapon
