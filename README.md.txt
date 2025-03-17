@@ -13,7 +13,7 @@ This project implements a camouflaged weapon detection system using the YOLOv8n 
 - **Tools**: OpenCV, YOLOv8 (Ultralytics), Albumentations, Labelme.
 
 
-*Note*: Raw and augmented data are not included due to size/privacy but can be recreated with the scripts.
+*Note*: Raw and augmented data are included to imporvise the project and facilitate involvement of ideas of other people.
 
 ## Installation
 1. **Clone the Repository**:
